@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level7\physics-convexpolyhedronconvexpolyhedron-mastervs2019\convexpolyhedronconvexpolyhedron\main.cpp(832): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level7\physics-convexpolyhedronconvexpolyhedron-mastervs2019\convexpolyhedronconvexpolyhedron\main.cpp(865): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  ConvexPolyhedronConvexPolyhedron.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-convexPolyhedronConvexPolyhedron-masterVS2019\ConvexPolyhedronConvexPolyhedron\Debug\ConvexPolyhedronConvexPolyhedron.exe
